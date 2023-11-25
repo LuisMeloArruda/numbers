@@ -3,6 +3,3 @@
 out/
 build/
 *.iml/
-.jqwik-database
-gradlew.batg
-gradlew
